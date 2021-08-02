@@ -1,0 +1,11 @@
+/* google fonts  */
+
+/* roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+/* bebas neue  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;700;900&display=swap');
+
+/* common utilities  */
+header {
+    background-color: #FFF9F4;
+}
